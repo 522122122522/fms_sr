@@ -1,0 +1,115 @@
+@charset "utf-8";
+.FrontNews_list01-d3_c1{
+   text-align: left;
+    margin: 0px auto;
+    width: 100%;
+    clear: both;
+}
+.FrontNews_list01-d3_c1{
+   text-align: left;
+    margin: 0px auto;
+    width: 100%;
+    clear: both;
+}
+.FrontNews_list01-d3_c1{
+   text-align: left;
+    margin: 0px auto;
+    width: 100%;
+    clear: both;
+}
+.FrontNews_list01-d3_c1 .content{
+   margin-bottom: 10px;
+    float: left;
+    overflow: hidden;
+}
+.FrontNews_list01-d3_c1 .more{
+   text-align: right;
+    width: 100%;
+    overflow: hidden;
+}
+.FrontNews_list01-d3_c1 A:link{
+}
+.FrontNews_list01-d3_c1 A:visited{
+}
+.FrontNews_list01-d3_c1 A:hover{
+}
+.FrontNews_list01-d3_c1 A:active{
+}
+.FrontNews_list01-d3_c1 .newstitle{
+   width: 100%;
+    overflow: hidden;
+}
+.FrontNews_list01-d3_c1 .newstitle LI H3{
+   display: inline;
+    color: #000;
+    font-size: 14px;
+}
+.FrontNews_list01-d3_c1 .newstitle LI.title{
+   float: left;
+}
+.FrontNews_list01-d3_c1 .newstitle LI.date{
+   padding-left: 20px;
+    float: left;
+    color: #888;
+    font-size: 14px;
+}
+.FrontNews_list01-d3_c1 .newstitle LI SPAN{
+   display: none;
+    color: #999;
+}
+.FrontNews_list01-d3_c1 .newstitle LI EM{
+   font-style: normal;
+}
+.FrontNews_list01-d3_c1 .newstitle .fontnews A{
+   color: #06c;
+}
+.FrontNews_list01-d3_c1 .newstitle .author{
+}
+.FrontNews_list01-d3_c1 .newstitle .comment{
+   padding-left: 20px;
+    background: url(/images/news/icon-04.gif) no-repeat 0px 4px;
+}
+.FrontNews_list01-d3_c1 .newstitle .linkarea{
+}
+.FrontNews_list01-d3_c1 .newslist{
+}
+.FrontNews_list01-d3_c1 .content .pic{
+   width: 140px;
+    float: left;
+}
+.FrontNews_list01-d3_c1 .content .pic A{
+   float: left;
+}
+.FrontNews_list01-d3_c1 .content .pic A:hover{
+}
+.FrontNews_list01-d3_c1 .content .pic IMG{
+   width: 120px;
+    height: 90px;
+}
+.FrontNews_list01-d3_c1 .newslist .summary{
+}
+.FrontNews_list01-d3_c1 .newslist .summary H3{
+   line-height: 22px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.FrontNews_list01-d3_c1 .newslist .summary P{
+   line-height: 20px;
+}
+.FrontNews_list01-d3_c1 .newslist .summary A{
+   margin-left: 5px;
+}
+.FrontNews_list01-d3_c1 .showLine{
+   border-bottom: 0px;
+    border-left: 0px;
+    width: 100%;
+    background: url(/images/news/line-01.gif) repeat-x 0px 50%;
+    float: left;
+    height: 10px;
+    border-top: 0px;
+    border-right: 0px;
+}
+.FrontNews_list01-d3_c1 .comstyle{
+   width: 100%;
+    overflow: hidden;
+}

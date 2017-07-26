@@ -1,0 +1,115 @@
+@charset "utf-8";
+.border_06{
+   position: relative;
+    text-align: left;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    width: 100%;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+.border_06 .border_06-topr{
+   line-height: 30px;
+    height: 30px;
+}
+#elem-FrontNews_list01-1453866183064 .border_06 .border_06-topr{
+   line-height: 30px;
+    background: url(/images/job.jpg) no-repeat;
+    height: 30px;
+    padding-top: 150px;
+}
+.border_06 .border_06-topl{
+   n: n;
+}
+.border_06 .border_06-topl H3{
+   padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 15px;
+    padding-right: 0px;
+    color: #5b5b5b;
+    font-size: 12px;
+    padding-top: 0px;
+}
+.border_06 .border_06-mid{
+   n: n;
+}
+.border_06 .borderContent{
+   padding-bottom: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 10px;
+}
+.border_06 .border_06-footerr{
+   height: 4px;
+    font-size: 0px;
+}
+.border_06 .border_06-footerl{
+   height: 4px;
+    font-size: 0px;
+}
+.border_06 .comptitle_06{
+   position: absolute;
+    width: 98%;
+    height: 25px;
+    top: 3px;
+    left: 0px;
+}
+.border_06 .comptitle_06 STRONG{
+   text-align: left;
+    font-style: normal;
+    width: 45%;
+    float: left;
+    word-break: break-all;
+    font-weight: bold;
+    text-decoration: none;
+}
+.border_06 .comptitle_06 .titlestyle_06{
+   font-style: normal;
+    font-family: "微软雅黑", "黑体";
+    color: #333;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+}
+#elem-FrontNews_list01-1453866183064 .border_06 .comptitle_06 .titlestyle_06{
+   font-style: normal;
+    color: #333;
+    font-weight: normal;
+    text-decoration: none;
+    padding-top: 155px;
+}
+.border_06 .comptitle_06 STRONG IMG{
+   width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.border_06 .comptitle_06 EM{
+   font-style: normal;
+    float: right;
+    font-weight: normal;
+}
+.border_06 .comptitle_06 EM SPAN.extendLink{
+   text-align: right;
+    font-size: 12px;
+    margin-right: 8px;
+}
+.border_06 .comptitle_06 EM SPAN.moreLink{
+   font-style: normal;
+    font-weight: normal;
+}
+.border_06 .compmore_06{
+   text-align: right;
+    clear: both;
+    font-size: 12px;
+    margin-right: 10px;
+}
+.border_06 .compmore_06 .extendLink{
+   text-align: right;
+    font-size: 12px;
+    margin-right: 10px;
+}
+.border_06 .compmore_06 .moreLink{
+   font-style: normal;
+    font-weight: normal;
+}

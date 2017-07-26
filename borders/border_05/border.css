@@ -1,0 +1,136 @@
+@charset "utf-8";
+.border_05{
+   position: relative;
+    text-align: left;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+.border_05 .border_05-topr{
+   padding-bottom: 0px;
+    line-height: 26px;
+    background-color: #fff;
+    margin: 0px 15px;
+    padding-left: 0px;
+    padding-right: 0px;
+    height: 38px;
+    padding-top: 0px;
+}
+#elem-FrontNews_list01-1453461892879 .border_05 .border_05-topr{
+   display: none;
+}
+#elem-FrontNews_list01-28311055411 .border_05 .border_05-topr{
+   display: none;
+}
+.border_05 .border_05-topl{
+   line-height: 26px;
+    height: 26px;
+}
+.border_05 .border_05-topl H3{
+   padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 15px;
+    padding-right: 0px;
+    color: #5b5b5b;
+    font-size: 12px;
+    padding-top: 0px;
+}
+.border_05 .border_05-mid{
+   n: n;
+}
+.border_05 .borderContent{
+   padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+.border_05 .comptitle_05{
+   position: absolute;
+    width: 94%;
+    height: 25px;
+    top: 15px;
+}
+#elem-FrontNews_list01-1453461892879 .border_05 .comptitle_05{
+   position: absolute;
+    text-align: right;
+    width: 100px;
+    height: 25px;
+    top: -42px;
+    right: 15px;
+}
+#elem-FrontNews_list01-28311055411 .border_05 .comptitle_05{
+   position: absolute;
+    text-align: right;
+    width: 100px;
+    height: 25px;
+    top: -42px;
+    right: 15px;
+}
+.border_05 .comptitle_05 STRONG{
+   text-align: left;
+    font-style: normal;
+    width: 45%;
+    float: left;
+    margin-left: 0px;
+    word-break: break-all;
+    font-weight: bold;
+    text-decoration: none;
+}
+.border_05 .comptitle_05 .titlestyle_05{
+   font-style: normal;
+    color: #333;
+    font-size: 18px;
+    font-weight: normal;
+    text-decoration: none;
+}
+.border_05 .comptitle_05 STRONG IMG{
+   width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.border_05 .comptitle_05 EM{
+   font-style: normal;
+    float: right;
+    font-weight: normal;
+}
+.border_05 .comptitle_05 EM SPAN.extendLink{
+   text-align: right;
+    font-size: 12px;
+    margin-right: 8px;
+}
+.border_05 .comptitle_05 EM SPAN.moreLink{
+   font-style: normal;
+    font-weight: normal;
+}
+.border_05 .compmore_05{
+   text-align: right;
+    clear: both;
+    font-size: 12px;
+    margin-right: 10px;
+}
+.border_05 .compmore_05 .extendLink{
+   text-align: right;
+    font-size: 12px;
+    margin-right: 10px;
+}
+.border_05 .compmore_05 .moreLink{
+   font-style: normal;
+    font-weight: normal;
+}
+.FrontNews_list01-d2_c2{
+   text-align: left;
+    margin: 0px auto;
+    clear: both;
+    overflow: hidden;
+}
+.FrontNews_list01-d2_c1{
+   text-align: left;
+    margin: 0px auto;
+    clear: both;
+}
+#box_root{
+   margin-left: auto;
+    margin-right: auto;
+}
